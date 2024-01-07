@@ -8,7 +8,7 @@ const moment = require('moment-timezone');
 const urls = [
   'https://fly123422-blue-dream-4999.fly.dev',             // fly2
   'https://sgnf.fly.dev',             // fly
-  'https://django-1-dev-gtxh.2.sg-1.fl0.io',      // 22
+  'https://west1.onrender.com',      // 22
   // 添加更多24小时不间断访问的URL
 ];
 
