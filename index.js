@@ -6,7 +6,7 @@ const moment = require('moment-timezone');
 
 // 添加24小时访问的URL数组
 const urls = [
-  'https://fly123422-blue-dream-4999.fly.dev',             // fly2
+  'http://1.lfd.cloudns.biz',             // fly2
   'https://sgnf.fly.dev',             // fly
   'https://west1.onrender.com',      // 22
   // 添加更多24小时不间断访问的URL
