@@ -6,7 +6,7 @@ const moment = require('moment-timezone');
 
 // 添加24小时访问的URL数组
 const urls = [
-  'https://p01--helloworld-zb--f95pw9jw5flx.code.run',             // fly2
+  'https://fly23412312.fly.dev/',             // fly2
   'https://sgnf.fly.dev',             // fly
   'https://west1.onrender.com',      // 22
   // 添加更多24小时不间断访问的URL
